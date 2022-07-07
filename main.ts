@@ -37,7 +37,7 @@ enum Length {
 //% groups=['On start', 'Variables', 'Optional']
 namespace BME680 {
 
-    let BME680_I2C_ADDR = 0x76
+    let BME680_I2C_ADDR = 0x77
 
     const BME680_REG_STATUS = 0x73
     const BME680_REG_RESET = 0xE0
